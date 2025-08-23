@@ -968,6 +968,8 @@ class _PlanSummaryCard extends StatelessWidget {
     required this.pmBrand,
     required this.pmLast4,
     required this.onUpdatePm,
+    this.onCancel,
+    this.onResume,
   });
 
   @override

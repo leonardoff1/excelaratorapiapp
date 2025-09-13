@@ -1,5 +1,4 @@
 // lib/pages/details/sample_templates_page.dart
-import 'dart:typed_data';
 import 'package:archive/archive.dart';
 import 'package:excelaratorapi/model/user_model.dart';
 import 'package:excelaratorapi/widgets/main_layout.dart';

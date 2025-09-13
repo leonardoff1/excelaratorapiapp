@@ -1,6 +1,4 @@
 // custom_drawer.dart (fixed: no overflow)
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:excelaratorapi/pages/details/docs_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';

@@ -5,7 +5,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:excelaratorapi/model/user_model.dart';
 import 'package:excelaratorapi/service/org_resolver.dart';
 import 'package:excelaratorapi/widgets/main_layout.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart' as storage;
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';

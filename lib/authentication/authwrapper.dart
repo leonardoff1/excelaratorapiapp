@@ -4,7 +4,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import '../homescreen.dart';
 import './loginscreen.dart';
-import 'pending_approval_screen.dart';
 
 class AuthWrapper extends StatelessWidget {
   const AuthWrapper({super.key});

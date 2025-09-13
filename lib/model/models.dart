@@ -2,8 +2,6 @@
 // Minimal, dependency-free data models for ExcelaratorAPI.
 // Firestore-friendly (handles Timestamp / DateTime), easy to extend.
 
-import 'package:flutter/foundation.dart';
-
 // ---- Utils ----
 DateTime? _dt(dynamic v) {
   if (v == null) return null;
